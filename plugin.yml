@@ -1,0 +1,7 @@
+name: StarCassino
+version: '1.0-SNAPSHOT'
+main: com.github.idimabr.StarCassino
+prefix: StarCassino
+authors: [ iDimaBR ]
+commands:
+  cassino:
